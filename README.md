@@ -10,9 +10,5 @@ Os dados utilizados neste projeto foram obtidos do repositório oficial da Johns
 
 Um dashboard interativo foi criado para visualização dos resultados. O dashboard foi desenvolvido utilizando o Google Data Studio e pode ser acessado [aqui](https://lookerstudio.google.com/reporting/2bb4935d-5f70-4a3e-953f-da80bf8dcd87/page/BAVbD).
 
-## Análise com Python e Pandas 🐍📊
-
-A análise dos dados foi realizada usando Python, aproveitando as funcionalidades da biblioteca Pandas. O código fonte utilizado para a análise está disponível no diretório [analysis](analysis/).
-
 ## Autor ✍️
 Aloisio Martinez Jacobs
